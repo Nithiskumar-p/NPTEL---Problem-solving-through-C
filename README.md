@@ -1,2 +1,2 @@
-# NPTEL---Problem-solving-through-C
+# NPTEL-Problem-solving-through-C
 Assignment solutions
